@@ -11,7 +11,7 @@
         <h3>Products</h3>
         <br/>
         <h4>Name of product: {{$product->name}}</h4>
-        <h4>Category: {{count($product->category)?$product->category->name:"N/A"}}</h4> <!--- if category is available display product category name else N/A -->
+        <h4>Category: {{@count($product->category)?$product->category->name:"N/A"}}</h4> <!--- if category is available display product category name else N/A -->
 
         <img src="{{url('images',$product->image)}}" style="max-width: 150px">
   

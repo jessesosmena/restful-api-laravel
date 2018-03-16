@@ -8,7 +8,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>Itm Mobile Shop</title>
+    <title>e-Commerce Laravel 5</title>
 
     <!-- Styles -->
     <link href="/css/app.css" rel="stylesheet">

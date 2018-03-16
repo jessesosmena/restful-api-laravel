@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:500');
+*{
+   font-family: 'Roboto', sans-serif;
+}
+
+.menu{
+   padding-top: 12px;
+   text-decoration: none;
+}
+
+.footer{
+	padding: 15px 15px;
+    font-size: 15px;
+    clear: both;
+}
+
+.latest-phones{
+	font-size: 9px;
+}
+
+.price{
+	font-size: 12px;
+}
+
+.phone-price{
+	font-size: 17px;
+	font-weight: bold;
+	color: #333333;
+}
+
+.phone-name{
+	font-size: 18px;
+}
+
+.img-wrapper{
+	font-size: 15px;
+}

@@ -2,7 +2,7 @@
 
 Demo: http://boiling-forest-88894.herokuapp.com/
 
-To access admin login first then type /admin on the url endpoint: http://boiling-forest-88894.herokuapp.com/admin
+To access admin panel use this endpoint /admin requires to login: http://boiling-forest-88894.herokuapp.com/admin
 
 git clone https://github.com/jessyosmena/eCommerce-App-laravel-5.4.git
 

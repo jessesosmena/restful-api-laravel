@@ -1,6 +1,6 @@
 # eCommerce App Laravel 5.4
 
-Demo: http://boiling-forest-88894.herokuapp.com/
+#Demo: http://boiling-forest-88894.herokuapp.com/
 
 To access admin panel use this endpoint /admin requires to login: http://boiling-forest-88894.herokuapp.com/admin
 

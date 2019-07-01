@@ -1,10 +1,6 @@
-# restful api laravel
+## Restful API laravel ##
 
-#Demo: http://boiling-forest-88894.herokuapp.com/
-
-To access admin panel use this endpoint /admin 
-
-git clone https://github.com/jessyosmena/eCommerce-App-laravel-5.4.git
+## Demo: http://boiling-forest-88894.herokuapp.com/ ##
 
 Install the composer dependencies
 
@@ -16,4 +12,4 @@ Set application key
 
 Configure .env and migrate 
 
-https://laravel.com/docs/5.4/installation
+## https://laravel.com/docs/5.4/installation ##
